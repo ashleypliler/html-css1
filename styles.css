@@ -1,0 +1,11 @@
+h1 {
+    color: pink;
+    text-align: center;
+}
+h2 {
+    background-image: url("fruit and hand.JPG"); 
+    background-position: center ; 
+    background-size: cover;
+    height: 500px;
+    width: 500px;
+}
